@@ -84,7 +84,8 @@ SIMULATION:
              
 
    CASE:3
-   <img width="940" height="628" alt="image" src="https://github.com/user-attachments/assets/b5a81f50-cab8-4206-8d84-b10695922e1c" />
+ ![WhatsApp Image 2025-11-28 at 11 24 31_5dcdfed8](https://github.com/user-attachments/assets/2dc830d2-5d90-41bd-ab90-b6e36b6b41b6)
+
 
              
 
